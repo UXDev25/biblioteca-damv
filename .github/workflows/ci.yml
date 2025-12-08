@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 name: CI/CD Pipeline - Biblioteca DAM
 
 on:
@@ -29,6 +28,3 @@ jobs:
 
     - name: Publicar el projecte
       run: dotnet publish --configuration Release --output ./publish
-=======
-
->>>>>>> 15faa87ceb84fed41afbbb61c8ca9e309d36eb87
