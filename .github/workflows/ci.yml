@@ -11,7 +11,7 @@ jobs:
 
     defaults:
       run:
-        working-directory: BibliotecaDemo/BibliotecaDemo.slnx
+        working-directory: ./BibliotecaDemo
 
     steps:
     - uses: actions/checkout@v4  # Baixa el codi del repositori
