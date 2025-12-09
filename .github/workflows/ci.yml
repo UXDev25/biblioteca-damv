@@ -18,7 +18,7 @@ jobs:
         dotnet-version: 8.0.x  # Canvia per la versió que utilitzis (6.0.x, 7.0.x, etc.)
 
     - name: Canviar a directori de projecte
-      run: cd ./BibliotecaDemo
+      run: cd C:\Users\isard\Desktop\Programació\Integració continua\Biblioteca\.github\workflows\BibliotecaDemo
 
     - name: Restaurar dependències
       run: dotnet restore
