@@ -1,0 +1,1 @@
+ÉRlC:\Users\isard\Desktop\Programaci√≥\Integraci√≥ continua\BibliotecaDemo\BibliotecaDemo\BibliotecaDemo.csproj¢net10.0ÚCSharp14

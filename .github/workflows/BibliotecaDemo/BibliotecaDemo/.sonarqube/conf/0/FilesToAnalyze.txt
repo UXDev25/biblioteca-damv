@@ -1,0 +1,2 @@
+﻿C:\Users\isard\Desktop\Programació\Integració continua\BibliotecaDemo\BibliotecaDemo\Program.cs
+C:\Users\isard\Desktop\Programació\Integració continua\BibliotecaDemo\BibliotecaDemo\obj\Debug\net10.0\apphost.exe
