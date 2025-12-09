@@ -11,7 +11,7 @@ jobs:
 
     defaults:
       run:
-        working-directory: ./BibliotecaDemo
+        working-directory: C:\Users\isard\Desktop\Programació\Integració continua\Biblioteca\.github\workflows\BibliotecaDemo
 
     steps:
     - uses: actions/checkout@v4  # Baixa el codi del repositori
