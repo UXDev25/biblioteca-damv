@@ -1,1 +1,1 @@
-C:\Users\isard\Desktop\Programació\Integració continua\BibliotecaDemo\.sonarqube\out\0
+C:\Users\isard\Desktop\Programació\Integració continua\Biblioteca\.github\workflows\BibliotecaDemo\.sonarqube\out\0

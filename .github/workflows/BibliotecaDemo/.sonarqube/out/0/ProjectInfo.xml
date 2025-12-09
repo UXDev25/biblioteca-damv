@@ -4,15 +4,15 @@
   <ProjectLanguage>C#</ProjectLanguage>
   <ProjectType>Product</ProjectType>
   <ProjectGuid>fdbe711b-6ac7-dc88-9100-ab46f84da499</ProjectGuid>
-  <FullPath>C:\Users\isard\Desktop\Programació\Integració continua\BibliotecaDemo\BibliotecaDemo\BibliotecaDemo.csproj</FullPath>
+  <FullPath>C:\Users\isard\Desktop\Programació\Integració continua\Biblioteca\.github\workflows\BibliotecaDemo\BibliotecaDemo\BibliotecaDemo.csproj</FullPath>
   <IsExcluded>false</IsExcluded>
   <AnalysisResultFiles>
-    <AnalysisResultFile Id="FilesToAnalyze" Location="C:\Users\isard\Desktop\Programació\Integració continua\BibliotecaDemo\.sonarqube\conf\0\FilesToAnalyze.txt" />
+    <AnalysisResultFile Id="FilesToAnalyze" Location="C:\Users\isard\Desktop\Programació\Integració continua\Biblioteca\.github\workflows\BibliotecaDemo\.sonarqube\conf\0\FilesToAnalyze.txt" />
   </AnalysisResultFiles>
   <AnalysisSettings>
-    <Property Name="sonar.cs.roslyn.reportFilePaths">C:\Users\isard\Desktop\Programació\Integració continua\BibliotecaDemo\.sonarqube\out\0\Issues.json</Property>
-    <Property Name="sonar.cs.analyzer.projectOutPaths">C:\Users\isard\Desktop\Programació\Integració continua\BibliotecaDemo\.sonarqube\out\0</Property>
-    <Property Name="sonar.cs.scanner.telemetry">C:\Users\isard\Desktop\Programació\Integració continua\BibliotecaDemo\.sonarqube\out\0\Telemetry.json</Property>
+    <Property Name="sonar.cs.roslyn.reportFilePaths">C:\Users\isard\Desktop\Programació\Integració continua\Biblioteca\.github\workflows\BibliotecaDemo\.sonarqube\out\0\Issues.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPaths">C:\Users\isard\Desktop\Programació\Integració continua\Biblioteca\.github\workflows\BibliotecaDemo\.sonarqube\out\0</Property>
+    <Property Name="sonar.cs.scanner.telemetry">C:\Users\isard\Desktop\Programació\Integració continua\Biblioteca\.github\workflows\BibliotecaDemo\.sonarqube\out\0\Telemetry.json</Property>
   </AnalysisSettings>
   <Configuration>Debug</Configuration>
   <Platform>AnyCPU</Platform>
