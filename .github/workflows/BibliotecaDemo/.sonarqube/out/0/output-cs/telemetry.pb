@@ -1,1 +1,0 @@
-°RâC:\Users\isard\Desktop\Programaci√≥\Integraci√≥ continua\Biblioteca\.github\workflows\BibliotecaDemo\BibliotecaDemo\BibliotecaDemo.csproj¢net10.0ÚCSharp14
