@@ -9,6 +9,10 @@ jobs:
     name: Build i Anàlisi de Qualitat
     runs-on: windows-latest
 
+    defaults:
+      run:
+        working-directory: **./BibliotecaDemo/BibliotecaDemo.slnx**
+
     steps:
     - uses: actions/checkout@v4  # Baixa el codi del repositori
 
