@@ -1,0 +1,96 @@
+{
+  "scannerProperties": [
+    {
+      "key": "sonar.scanner.app",
+      "value": "ScannerMSBuild"
+    },
+    {
+      "key": "sonar.scanner.appVersion",
+      "value": "11.0"
+    },
+    {
+      "key": "sonar.scanner.bootstrapStartTime",
+      "value": "1765293410000"
+    },
+    {
+      "key": "sonar.projectKey",
+      "value": "biblioteca-damv"
+    },
+    {
+      "key": "sonar.working.directory",
+      "value": "C:\\Users\\isard\\Desktop\\Programació\\Integració_continua\\Biblioteca\\.sonarqube\\out\\.sonar"
+    },
+    {
+      "key": "sonar.projectBaseDir",
+      "value": "C:\\Users\\isard\\Desktop\\Programació\\Integració_continua\\Biblioteca"
+    },
+    {
+      "key": "sonar.pullrequest.cache.basepath",
+      "value": "C:\\Users\\isard\\Desktop\\Programació\\Integració_continua\\Biblioteca"
+    },
+    {
+      "key": "sonar.sources",
+      "value": ""
+    },
+    {
+      "key": "sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "sonar.modules",
+      "value": "A7B5331F-021E-83B4-34F6-FAC4B6498E97"
+    },
+    {
+      "key": "A7B5331F-021E-83B4-34F6-FAC4B6498E97.sonar.projectKey",
+      "value": "biblioteca-damv:A7B5331F-021E-83B4-34F6-FAC4B6498E97"
+    },
+    {
+      "key": "A7B5331F-021E-83B4-34F6-FAC4B6498E97.sonar.projectName",
+      "value": "BibliotecaDemo"
+    },
+    {
+      "key": "A7B5331F-021E-83B4-34F6-FAC4B6498E97.sonar.projectBaseDir",
+      "value": "C:\\Users\\isard\\Desktop\\Programació\\Integració_continua\\Biblioteca"
+    },
+    {
+      "key": "A7B5331F-021E-83B4-34F6-FAC4B6498E97.sonar.working.directory",
+      "value": "C:\\Users\\isard\\Desktop\\Programació\\Integració_continua\\Biblioteca\\.sonarqube\\out\\.sonar\\mod0"
+    },
+    {
+      "key": "A7B5331F-021E-83B4-34F6-FAC4B6498E97.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "A7B5331F-021E-83B4-34F6-FAC4B6498E97.sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "A7B5331F-021E-83B4-34F6-FAC4B6498E97.sonar.sources",
+      "value": "C:\\Users\\isard\\Desktop\\Programació\\Integració_continua\\Biblioteca\\Program.cs,C:\\Users\\isard\\Desktop\\Programació\\Integració_continua\\Biblioteca\\README.md,C:\\Users\\isard\\Desktop\\Programació\\Integració_continua\\Biblioteca\\obj\\BibliotecaDemo.csproj.nuget.dgspec.json,C:\\Users\\isard\\Desktop\\Programació\\Integració_continua\\Biblioteca\\obj\\project.assets.json,C:\\Users\\isard\\Desktop\\Programació\\Integració_continua\\Biblioteca\\.github\\workflows\\ci.yml,C:\\Users\\isard\\Desktop\\Programació\\Integració_continua\\Biblioteca\\.vs\\BibliotecaDemo.slnx\\v18\\DocumentLayout.backup.json,C:\\Users\\isard\\Desktop\\Programació\\Integració_continua\\Biblioteca\\.vs\\BibliotecaDemo.slnx\\v18\\DocumentLayout.json,C:\\Users\\isard\\Desktop\\Programació\\Integració_continua\\Biblioteca\\bin\\Debug\\net10.0\\BibliotecaDemo.deps.json,C:\\Users\\isard\\Desktop\\Programació\\Integració_continua\\Biblioteca\\bin\\Debug\\net10.0\\BibliotecaDemo.runtimeconfig.json,C:\\Users\\isard\\Desktop\\Programació\\Integració_continua\\Biblioteca\\obj\\Debug\\net10.0\\BibliotecaDemo.sourcelink.json"
+    },
+    {
+      "key": "A7B5331F-021E-83B4-34F6-FAC4B6498E97.sonar.cs.analyzer.projectOutPaths",
+      "value": "C:\\Users\\isard\\Desktop\\Programació\\Integració_continua\\Biblioteca\\.sonarqube\\out\\0"
+    },
+    {
+      "key": "A7B5331F-021E-83B4-34F6-FAC4B6498E97.sonar.cs.roslyn.reportFilePaths",
+      "value": "C:\\Users\\isard\\Desktop\\Programació\\Integració_continua\\Biblioteca\\.sonarqube\\out\\0\\Issues.json"
+    },
+    {
+      "key": "A7B5331F-021E-83B4-34F6-FAC4B6498E97.sonar.cs.scanner.telemetry",
+      "value": "C:\\Users\\isard\\Desktop\\Programació\\Integració_continua\\Biblioteca\\.sonarqube\\out\\0\\Telemetry.json"
+    },
+    {
+      "key": "sonar.login",
+      "value": "***"
+    },
+    {
+      "key": "sonar.host.url",
+      "value": "http://localhost:9000"
+    },
+    {
+      "key": "sonar.visualstudio.enable",
+      "value": "false"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+pRYC:\Users\isard\Desktop\Programaci√≥\Integraci√≥_continua\Biblioteca\BibliotecaDemo.csproj¢net10.0ÚCSharp14

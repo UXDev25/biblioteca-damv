@@ -1,0 +1,6 @@
+projectKey=biblioteca-damv
+serverUrl=http://localhost:9000
+serverVersion=25.11.0.114957
+dashboardUrl=http://localhost:9000/dashboard?id=biblioteca-damv
+ceTaskId=147e71b5-cfa9-495f-8ecc-af93dba4f3cc
+ceTaskUrl=http://localhost:9000/api/ce/task?id=147e71b5-cfa9-495f-8ecc-af93dba4f3cc

@@ -18,14 +18,13 @@ jobs:
         dotnet-version: 8.0.x  # Canvia per la versió que utilitzis (6.0.x, 7.0.x, etc.)
 
     - name: Restaurar dependències
-      run: dotnet restore BibliotecaDemo/BibliotecaDemo.slnx
+      run: dotnet restore 
       
     - name: Compilar el projecte
-      run: dotnet build BibliotecaDemo/BibliotecaDemo.slnx --configuration Release --no-restore
+      run: dotnet build --configuration Release --no-restore
       
     - name: Executar tests
-      # Normalment els tests estan en un projecte separat, assegura't d'apuntar al projecte de tests
-      run: dotnet test BibliotecaDemo/BibliotecaDemo/BibliotecaDemo.csproj --no-build --verbosity normal
+      run: dotnet test --no-build --verbosity normal
       
     - name: Publicar el projecte
-      run: dotnet publish BibliotecaDemo/BibliotecaDemo.slnx --configuration Release --output ./publish
+      run: dotnet publish --configuration Release --output ./publish
